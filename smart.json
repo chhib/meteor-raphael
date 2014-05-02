@@ -1,0 +1,8 @@
+{
+     "name": "raphael",
+     "description": "Wrapper for Raphael.js",
+     "homepage": "https://github.com/chhib/meteor-raphael",
+     "author": "David Andersson <david@royapp.com>",
+     "version": "0.0.1",
+     "git": "https://github.com/chhib/meteor-raphael.git"
+}
